@@ -5,6 +5,7 @@
 * Perform data handling with Python lists by Storing, accessing and manipulating information in list structure. 
 * Perform data handling with Python dictionaries by Storing, accessing and manipulating information in a dictionary structure.
 * Compare and constrast use cases for lists and dictionaries in python
+* Read data from external sources into Python environment
 
 
 ### Python primitive vs. non-primitive data structures (15 minutes)
@@ -33,11 +34,19 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 
 ### Lists Discussion (10 minutes)
 
-### Python Dictionaries Lesson
-
+### Python Dictionaries Lesson (25 min)
+(link to lesson)
 * Intro to Python dict data structure 
 * Dictionaries and Key-value pairs {k:v}
 * Creating dictionaries and adding elements 
 * Recalling elements from dictionay
 * Dictionary of lists 
 * lists of dictionaries
+
+### Python Dictionaries lab (20 minutes)
+(link to lab)
+
+## Python Data Import from Excel (30 minutes)
+
+
+
