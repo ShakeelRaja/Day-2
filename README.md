@@ -15,7 +15,7 @@ https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 ### Introduction to Collections in Python (5 minutes)
 http://python-textbok.readthedocs.io/en/1.0/Collections.html
 
-### Python Lists Lesson (30 min) 
+### Python Lists Lesson (20 min) 
 (Link to lesson)
 
 * Lists and operations in Python
@@ -27,15 +27,15 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 * Length of lists with len()
 * A quick exercise for students to practice above operations
 
-### Python Lists Lab (20 min)
+### Python Lists Lab (30 min)
 (link to lab)
 * 20 minutes for given exercises
 (link to vis. lab)
 * Lists with Maps (Visualisations)
 
-### Lists Discussion (10 minutes)
+### Lists Discussion (15 minutes)
 
-### Python Dictionaries Lesson (25 min)
+### Python Dictionaries Lesson (20 min)
 (link to lesson)
 * Intro to Python dict data structure 
 * Dictionaries and Key-value pairs {k:v}
@@ -50,6 +50,6 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 ### Python Data Import from Excel Lab (30 minutes)
 (link to lab)
 
-### Python Dictionaries discussion and quick introduction to additional data structures with use cases (Tuple, Stacks etc) (20 minutes)
+### Python Dictionaries discussion and quick introduction to additional data structures with use cases (Tuple, Stacks etc) (20 minutes) (15 mins)
 
 
