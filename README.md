@@ -46,7 +46,8 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 ### Python Dictionaries lab (20 minutes)
 (link to lab)
 
-## Python Data Import from Excel (30 minutes)
+### Python Data Import from Excel (30 minutes)
 
+## Python Dictionaries discussion and quick introduction to additional data structures (Tuple, Stacks etc) (20 minutes)
 
 
