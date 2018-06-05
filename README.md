@@ -10,6 +10,7 @@
 
 ### Python primitive vs. non-primitive data structures (15 minutes)
 https://www.datacamp.com/community/tutorials/data-structures-python
+https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 
 ### Introduction to Collections in Python (5 minutes)
 http://python-textbok.readthedocs.io/en/1.0/Collections.html
@@ -46,8 +47,9 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 ### Python Dictionaries lab (20 minutes)
 (link to lab)
 
-### Python Data Import from Excel (30 minutes)
+### Python Data Import from Excel Lab (30 minutes)
+(link to lab)
 
-## Python Dictionaries discussion and quick introduction to additional data structures (Tuple, Stacks etc) (20 minutes)
+### Python Dictionaries discussion and quick introduction to additional data structures with use cases (Tuple, Stacks etc) (20 minutes)
 
 
