@@ -93,7 +93,9 @@ As data scientists, you will be routinely importing data from external sources i
 
 ### Python Dictionaries discussion and quick introduction to additional data structures with use cases (Sets, Tuples etc) (20 minutes) (15 mins)
 ![comparison](comparison.jpeg)
-https://www.datacamp.com/community/tutorials/data-structures-python
+Compare and contrast lists, dictionaries, tuples and sets and describe the use cases for each of these.
+
+https://www.slideshare.net/rampalliraj/learn-python-for-beginners-part2
 
 
 
