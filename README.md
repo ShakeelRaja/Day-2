@@ -28,7 +28,7 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 * A quick exercise for students to practice above operations
 
 ### Python Lists Lab (30 min)
-(link to lab)
+[Click here to access the lab](labs/lists_lab.ipynb)
 * 20 minutes for given exercises
 (link to vis. lab)
 * Lists with Maps (Visualisations)
