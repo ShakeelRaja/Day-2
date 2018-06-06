@@ -91,7 +91,7 @@ As data scientists, you will be routinely importing data from external sources i
 
 [Click here to access the lesson](lessons/xl_to_python.ipynb)
 
-### Python Dictionaries discussion and quick introduction to additional data structures with use cases (Sets, Tuples etc) (20 minutes) (15 mins)
+### Python Dictionaries discussion and quick introduction to additional data (Sets, Tuples etc) structures with use cases  (15 mins)
 ![comparison](comparison.jpeg)
 Compare and contrast lists, dictionaries, tuples and sets and describe the use cases for each of these.
 
