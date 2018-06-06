@@ -47,11 +47,11 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 * Dictionary of lists 
 * lists of dictionaries
 
-### Python Dictionaries lab (20 minutes)
-(link to lab)
+### Python Dictionaries lab (25 minutes)
+[Click here to access the lab](labs/dict_lab.ipynb)
 
-### Python Data Import from Excel Lab (30 minutes)
-(link to lab)
+### Python Data Import from Excel Lab (25 minutes)
+[Click here to access the lab](labs/xl_to_python_lab.ipynb)
 
 ### Python Dictionaries discussion and quick introduction to additional data structures with use cases (Tuple, Stacks etc) (20 minutes) (15 mins)
 
