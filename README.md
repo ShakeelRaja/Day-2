@@ -93,7 +93,13 @@ As data scientists, you will be routinely importing data from external sources i
 
 ### Python Dictionaries discussion and quick introduction to additional data (Sets, Tuples etc) structures with use cases  (15 mins)
 ![comparison](comparison.jpeg)
-Compare and contrast lists, dictionaries, tuples and sets and describe the use cases for each of these.
+
+Example of data in lists vs. dictionaries.
+
+![comparison](comparison2.png)
+
+
+Compare and contrast lists, dictionaries, tuples and sets and describe the use cases for each of these. Consult following slides for examples
 
 https://www.slideshare.net/rampalliraj/learn-python-for-beginners-part2
 
