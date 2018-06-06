@@ -24,6 +24,7 @@ The examples of Primitive data types are given int, float, string, boolean etc.
 The integer reals, logic data character data pointer and reference are primitive data structures data structure that normally are directly operated upon by machine level instructions are known as primitive structure and data type.
 
 **Non-primitive Data Structures** 
+
 A non-primitive data type is something else such as an array structure or class is known as the non-primitive data type.
 
 The data type that are derived from primary data types are known as non-primitive data type.
@@ -33,10 +34,14 @@ Examples of non-primitive data type.
 
 Array, lists, dictionaries, sets, stacks, queue etc.
 
+(further details here)
 https://www.datacamp.com/community/tutorials/data-structures-python
 https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 
 ### Introduction to Collections in Python (5 minutes)
+
+We have seen some simple Python types like numbers, strings and booleans. Now we will see how we can group multiple values together in a collection – like a list of numbers, or a dictionary which we can use to store and retrieve key-value pairs. Many useful collections are built-in types in Python as non-primitive data types and as data scientists you will encounter them quite often while reading data from external sources and collecting it in one of the data types explained later in this lesson. 
+
 http://python-textbok.readthedocs.io/en/1.0/Collections.html
 
 ### Python Lists Lesson (20 min) 
@@ -55,11 +60,14 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 * Lists and Operations (20 min)
 [Click here to access the lab](labs/lists_lab.ipynb)
 
-* Lists with Mapsv- Visualisations with lists using python folium library (20 min)
+* Using lists for geo-visualisations using python folium library (20 min)
 [Click here to access the lab](labs/lists_maps_lab.ipynb)
 
-
 ### Lists Discussion (10 minutes)
+Answer any questions on lessons and labs on lists. 
+
+#
+
 
 ### Python Dictionaries Lesson (20 min)
 [Click to acces the lesson](lessons/dict_lesson.ipynb)
