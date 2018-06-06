@@ -9,6 +9,30 @@
 
 
 ### Python primitive vs. non-primitive data structures (15 minutes)
+ 
+Explain the idea behind non-primitive vs. primitive data structures independant of programming platforms. 
+![datastuct](dataStruct.png)
+
+**Primitive Data Structures**
+
+A primitive data type is one that fits the base architecture of the underlying computer such as int, float, and pointer, and all of the variations, thereof such as char short long unsigned float double and etc, are primitive data type.
+
+Primitive data are only single values, they have not special capabilities.
+
+The examples of Primitive data types are given int, float, string, boolean etc.
+
+The integer reals, logic data character data pointer and reference are primitive data structures data structure that normally are directly operated upon by machine level instructions are known as primitive structure and data type.
+
+**Non-primitive Data Structures** 
+A non-primitive data type is something else such as an array structure or class is known as the non-primitive data type.
+
+The data type that are derived from primary data types are known as non-primitive data type.
+The non-primitive data types are used to store the group of values.
+
+Examples of non-primitive data type.
+
+Array, lists, dictionaries, sets, stacks, queue etc.
+
 https://www.datacamp.com/community/tutorials/data-structures-python
 https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 
