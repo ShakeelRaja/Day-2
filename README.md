@@ -27,18 +27,19 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 * Length of lists with len()
 * A quick exercise for students to practice above operations
 
-### Python Lists Lab (30 min)
-* 20 minutes for given exercises
+### Python Lists Lab (40 min)
+* Lists and Operations (20 min)
 [Click here to access the lab](labs/lists_lab.ipynb)
 
-* Lists with Maps (Visualisations with lists using python folium library)
+* Lists with Mapsv- Visualisations with lists using python folium library (20 min)
 [Click here to access the lab](labs/lists_maps_lab.ipynb)
 
 
-### Lists Discussion (15 minutes)
+### Lists Discussion (10 minutes)
 
 ### Python Dictionaries Lesson (20 min)
-(link to lesson)
+[Click to acces the lesson](lessons/dict_lesson.ipynb)
+
 * Intro to Python dict data structure 
 * Dictionaries and Key-value pairs {k:v}
 * Creating dictionaries and adding elements 
