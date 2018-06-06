@@ -90,14 +90,13 @@ Practice dictionary creation, modification and operations highlighted in the les
 ### Import from Excel into Python dictionaries (25 minutes)
 As data scientists, you will be routinely importing data from external sources including text files, xls, csv, XML, JASON and relational databases, to name a few. Following lesson given a brief insight into opening an xl file and reading data to be procssed in Python. We will use Pandas module in python which has built in methods to read and write different data file formats. Further details on Pandas and its applications will be later covered in the course. 
 
+![comparison](comparison2.png)
+
 [Click here to access the lesson](lessons/xl_to_python.ipynb)
 
 ### Python Dictionaries discussion and quick introduction to additional data (Sets, Tuples etc) structures with use cases  (15 mins)
 ![comparison](comparison.jpeg)
 
-Example of data in lists vs. dictionaries.
-
-![comparison](comparison2.png)
 
 
 Compare and contrast lists, dictionaries, tuples and sets and describe the use cases for each of these. Consult following slides for examples
