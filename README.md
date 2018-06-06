@@ -16,7 +16,7 @@ https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 http://python-textbok.readthedocs.io/en/1.0/Collections.html
 
 ### Python Lists Lesson (20 min) 
-(Link to lesson)
+[Click here to access the lesson](/lessons/lists_lesson.ipynb)
 
 * Lists and operations in Python
 * Creatig lists 
