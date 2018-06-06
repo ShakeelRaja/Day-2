@@ -2,10 +2,11 @@
 
 ### SWBAT:
 * Describe the difference between primitive and non-primitive data structures
-* Perform data handling with Python lists by Storing, accessing and manipulating information in list structure. 
+* Perform data handling with Python lists by Storing, accessing and manipulating information in a list structure. 
 * Perform data handling with Python dictionaries by Storing, accessing and manipulating information in a dictionary structure.
+* Demonstrate the ability to data from external sources into Python environment
 * Compare and constrast use cases for lists and dictionaries in python
-* Read data from external sources into Python environment
+
 
 
 ### Python primitive vs. non-primitive data structures (15 minutes)
