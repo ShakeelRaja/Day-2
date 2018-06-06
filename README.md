@@ -59,11 +59,11 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 * Length of lists with len()
 * A quick exercise for students to practice above operations
 
-### Python Lists Lab (40 min)
+### Python Lists Lab (30 min)
 * Lists and Operations (20 min)
 [Click here to access the lab](labs/lists_lab.ipynb)
 
-* Using lists for geo-visualisations using python folium library (20 min)
+* Using lists for geo-visualisations using python folium library
 [Click here to access the lab](labs/lists_maps_lab.ipynb)
 
 ### Lists Discussion (10 minutes)
@@ -91,7 +91,8 @@ As data scientists, you will be routinely importing data from external sources i
 
 [Click here to access the lesson](lessons/xl_to_python.ipynb)
 
-### Python Dictionaries discussion and quick introduction to additional data structures with use cases (Tuple, Stacks etc) (20 minutes) (15 mins)
+### Python Dictionaries discussion and quick introduction to additional data structures with use cases (Sets, Tuples etc) (20 minutes) (15 mins)
+![comparison](comparison.jpeg)
 https://www.datacamp.com/community/tutorials/data-structures-python
 
 
