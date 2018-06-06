@@ -28,10 +28,12 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 * A quick exercise for students to practice above operations
 
 ### Python Lists Lab (30 min)
-[Click here to access the lab](labs/lists_lab.ipynb)
 * 20 minutes for given exercises
-(link to vis. lab)
-* Lists with Maps (Visualisations)
+[Click here to access the lab](labs/lists_lab.ipynb)
+
+* Lists with Maps (Visualisations with lists using python folium library)
+[Click here to access the lab](labs/lists_maps_lab.ipynb)
+
 
 ### Lists Discussion (15 minutes)
 
