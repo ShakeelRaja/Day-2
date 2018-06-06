@@ -1,6 +1,6 @@
 # Day-2 (Python Data Structures)
 
-## SWBAT:
+### SWBAT:
 * Describe the difference between primitive and non-primitive data structures
 * Perform data handling with Python lists by Storing, accessing and manipulating information in list structure. 
 * Perform data handling with Python dictionaries by Storing, accessing and manipulating information in a dictionary structure.
@@ -44,6 +44,8 @@ We have seen some simple Python types like numbers, strings and booleans. Now we
 
 http://python-textbok.readthedocs.io/en/1.0/Collections.html
 
+#
+
 ### Python Lists Lesson (20 min) 
 [Click here to access the lesson](/lessons/lists_lesson.ipynb)
 
@@ -80,11 +82,17 @@ Answer any questions on lessons and labs on lists.
 * lists of dictionaries
 
 ### Python Dictionaries lab (25 minutes)
+Practice dictionary creation, modification and operations highlighted in the lesson above. 
 [Click here to access the lab](labs/dict_lab.ipynb)
 
 ### Import from Excel into Python dictionaries (25 minutes)
+As data scientists, you will be routinely importing data from external sources including text files, xls, csv, XML, JASON and relational databases, to name a few. Following lesson given a brief insight into opening an xl file and reading data to be procssed in Python. We will use Pandas module in python which has built in methods to read and write different data file formats. Further details on Pandas and its applications will be later covered in the course. 
+
 [Click here to access the lesson](lessons/xl_to_python.ipynb)
 
 ### Python Dictionaries discussion and quick introduction to additional data structures with use cases (Tuple, Stacks etc) (20 minutes) (15 mins)
+https://www.datacamp.com/community/tutorials/data-structures-python
+
+
 
 
