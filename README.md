@@ -7,6 +7,7 @@
 * Demonstrate the ability to data from external sources into Python environment
 * Compare and constrast use cases for lists and dictionaries in python
 
+![](intro.jpg)
 
 
 ### Python primitive vs. non-primitive data structures (15 minutes)
