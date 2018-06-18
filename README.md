@@ -48,8 +48,8 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 
 #
 
-### Python Lists Lesson (20 min) 
-[Click here to access the lesson](/lessons/lists_lesson.ipynb)
+### Python Lists Lesson (25 min) 
+[Click here to access the lesson](https://github.com/learn-co-curriculum/python-lists-lab)
 
 * Lists and operations in Python
 * Creatig lists 
@@ -60,21 +60,20 @@ http://python-textbok.readthedocs.io/en/1.0/Collections.html
 * Length of lists with len()
 * A quick exercise for students to practice above operations
 
-### Python Lists Lab (30 min)
-* Lists and Operations (20 min)
-[Click here to access the lab](labs/lists_lab.ipynb)
+### Python Lists Lab
 
-* Using lists for geo-visualisations using python folium library
-[Click here to access the lab](labs/lists_maps_lab.ipynb)
+#### Lists and Operations (20 min)
+[Click here to access the lab](https://github.com/learn-co-curriculum/python-lists-lab)
 
-### Lists Discussion (10 minutes)
+#### Using lists for geo-visualisations using python folium library (20 min)
+[Click here to access the lab](https://github.com/learn-co-curriculum/py-lists-with-maps)
+
+#### Lists Discussion (10 minutes)
 Answer any questions on lessons and labs on lists. 
-
-#
 
 
 ### Python Dictionaries Lesson (20 min)
-[Click to acces the lesson](lessons/dict_lesson.ipynb)
+[Click to acces the lesson](https://github.com/learn-co-curriculum/python-dictionaries-readme)
 
 * Intro to Python dict data structure 
 * Dictionaries and Key-value pairs {k:v}
@@ -85,10 +84,12 @@ Answer any questions on lessons and labs on lists.
 
 ### Python Dictionaries lab (25 minutes)
 Practice dictionary creation, modification and operations highlighted in the lesson above. 
-[Click here to access the lab](labs/dict_lab.ipynb)
+[Click here to access the lab](https://github.com/learn-co-curriculum/python-dictionaries-lab/)
 
 ### Import from Excel into Python dictionaries (25 minutes)
-As data scientists, you will be routinely importing data from external sources including text files, xls, csv, XML, JASON and relational databases, to name a few. Following lesson given a brief insight into opening an xl file and reading data to be procssed in Python. We will use Pandas module in python which has built in methods to read and write different data file formats. Further details on Pandas and its applications will be later covered in the course. 
+[Click here to access the lab](https://github.com/learn-co-curriculum/excel-to-python)
+
+As data scientists, you will be routinely importing data from external sources including text files, xls, csv, XML, JASON and relational databases, to name a few. Following lesson given a brief insight into opening an xl file and reading data to be procssed in Python. We will use Pandas module in python which has built in methods to read and write different data file formats. Provide a quick introduction to Pandas. Further details on Pandas and its applications will be later covered in the course. 
 
 ![comparison](comparison2.png)
 
@@ -98,11 +99,14 @@ As data scientists, you will be routinely importing data from external sources i
 ![comparison](comparison.jpeg)
 
 
+### Extra reading
 
 Compare and contrast lists, dictionaries, tuples and sets and describe the use cases for each of these. Consult following slides for examples
-
 https://www.slideshare.net/rampalliraj/learn-python-for-beginners-part2
 
+## Summary: 
+
+Today's lesson provided further insight into Python development environment with lists and dictionaries. We can now compare and contrast between use cases for both of these non primitive data types. We used data in lists to do some simple geographical visualisations using Python Folium library. The lesson highlighted how dictionaries can be used to store information as key: value pairs to ensure data integrity. As an extra lab, we also saw how to import data into pandas dataframe for processing.  
 
 
 
